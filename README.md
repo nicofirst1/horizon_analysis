@@ -3,4 +3,4 @@ This repository contains the Jupyter Notebook that was used to conduct the analy
 
 Please note that this code is a rough draft, as I was experimenting with various approaches and didn't focus much on code organization or cleanliness. Feel free to explore and adapt as needed.
 
-You can read the corresponding blog post that explains the analysis in detail at [link X].
+You can read the corresponding blog post that explains the analysis in detail here: [https://nicofirst1.github.io/news/horizon-fragmentation/](https://nicofirst1.github.io/news/horizon-fragmentation/)
