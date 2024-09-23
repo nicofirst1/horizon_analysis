@@ -1,0 +1,569 @@
+The projects with similarity above 0.9 but not identical are:
+Similarity score of 1.000:
+        	1.MESTUM: Machine learning-based prediction and evaluation of supercapacitor performance of transition metal carbide developed by using waste surgical masks during COVID-19
+        	1.MESTUM: Machine learning-based prediction and evaluation of supercapacitor performance of transition metal carbide developed by using waste surgical masks during COVID-19
+
+Similarity score of 1.000:
+        	1.YAHYA-6G: dYnAmic resource scHeduling in Massive MIMO based NOMA with RF imperfections and EnergY hArvesting for 6G networks
+        	1.YAHYA-6G: Dynamic resource Scheduling in Massive MIMO based NOMA with RF imperfections and Energy Harvesting for 6G networks
+
+Similarity score of 0.889:
+        	1.DataBri-X: Data Process & Technological Bricks for expanding digital value creation in European Data Spaces
+        	1.CyclOps: Automated end-to-end data life cycle management for FAIR data integration, processing and re-use
+
+Similarity score of 0.884:
+        	1.ENLIGHTEN-ED: European iNitiative for Low cost, Innovative and Green High Thrust ENgine - Engine Demonstration
+        	1.ENLIGHTEN: European iNitiative for Low cost, Innovative & Green High Thrust ENgine
+
+Similarity score of 0.867:
+        	1.INFER: In-operando growth of organic mixed ionic-electronic conductors for brain-inspired electronics
+        	1.PSOECNs: Photo-patternable electrolytes for solid-state organic electrochemical neurons
+
+Similarity score of 0.862:
+        	1.OPTGEN: Optimizing for Generalization in Machine Learning
+        	1.GENERALIZATION: Modern Challenges in Learning Theory
+
+Similarity score of 0.859:
+        	1.DECODE: Desynchronizing weak cortical fields during deep brain stimulation
+        	1.DBSBOT: Deep brain stimulation based on the wireless magnetically localised and ultrasonically actuated micro-robot
+
+Similarity score of 0.856:
+        	1.SUNRISE-6G: SUstainable federatioN of Research Infrastructures for Scaling-up Experimentation in 6G
+        	1.SCION: Secured and Intelligent Massive Machine-to-Machine Communications for 6G
+
+Similarity score of 0.853:
+        	1.CatQubit: Building universal quantum computers with self-correcting cat-qubit technology
+        	1.RoCCQeT: Real-World Commercial Coherent Quantum Annealing Technology
+
+Similarity score of 0.845:
+        	1.ONCOSCREEN: A European “shield” against colorectal cancer based on novel, more precise and affordable risk-based screening methods and viable policy pathways
+        	1.Microb-AI-ome: Federated artificial intelligence for privacy-preserving international stratification of colorectal cancer patients
+
+Similarity score of 0.842:
+        	1.STARLET: Atomistic Modeling of Advanced Porous Materials for Energy, Environment, and Biomedical Applications
+        	1.SEQUOIA: Quantum Sensing with Metal-Organic Frameworks: DFT, Molecular Dynamics and Machine Learning Exploration
+
+Similarity score of 0.837:
+        	1.SCION: Secured and Intelligent Massive Machine-to-Machine Communications for 6G
+        	1.ROBUST-6G: SmaRt, AutOmated, and ReliaBle SecUrity Service PlaTform for 6G
+
+Similarity score of 0.837:
+        	1.HeteroGenius4D: Heterogeneities-guided alloy design by and for 4D printing
+        	1.FLAME: Fatigue life assessment of additively manufactured material through a hybrid framework
+
+Similarity score of 0.830:
+        	1.6G-BRICKS: 6G-BRICKS: Building Reusable testbed Infrastructures for validating Cloud-to-device breaKthrough technologieS
+        	1.6G-INTENSE: Intent-driven NaTive AI architecturE supporting Compute-Network abstraction and Sensing at the Deep Edge
+
+Similarity score of 0.828:
+        	1.ConnectomesToANNs: From reconstructions of neuronal circuits to anatomically realistic artificial neural networks
+        	1.NEMERFEC: NEUROMOPHIC SYSTEMS BASED ON MEMRISTOR AND FERROELECTRIC DEVICES FOR COMPUTING APPLICATIONS
+
+Similarity score of 0.828:
+        	1.SUNRISE-6G: SUstainable federatioN of Research Infrastructures for Scaling-up Experimentation in 6G
+        	1.6G-INTENSE: Intent-driven NaTive AI architecturE supporting Compute-Network abstraction and Sensing at the Deep Edge
+
+Similarity score of 0.826:
+        	1.EndoTheranostics: Multi-sensor Eversion Robot  Towards Intelligent Endoscopic Diagnosis and Therapy
+        	1.Microb-AI-ome: Federated artificial intelligence for privacy-preserving international stratification of colorectal cancer patients
+
+Similarity score of 0.821:
+        	1.CatQubit: Building universal quantum computers with self-correcting cat-qubit technology
+        	1.qx: Automating quantum control with machine learning
+
+Similarity score of 0.821:
+        	1.GENERALIZATION: Modern Challenges in Learning Theory
+        	1.ALEPH: Autonomous learning agents in Physics
+
+Similarity score of 0.819:
+        	1.ChargFlex: Smart Synergy Mechanism between Electric Vehicle Charging and Flexibility Markets
+        	1.EVOLVE: Electric Vehicles Point Location Optimisation via Vehicular Communications
+
+Similarity score of 0.816:
+        	1.TopoTapered: Auto-tuning, manipulation and braiding of topological quantum bits in tapered nanowire networks
+        	1.RoCCQeT: Real-World Commercial Coherent Quantum Annealing Technology
+
+Similarity score of 0.816:
+        	1.TEXWEAROTS: Textile-Based Wearable Soft Robotics with Integrated Sensing, Actuating and Self Powering Properties
+        	1.SWAG: SOFT WEARABLE ASSISTIVE GARMENTS FOR HUMAN EMPOWERMENT
+
+Similarity score of 0.815:
+        	1.CONVOLVE: Seamless design of smart edge processors
+        	1.TIRAMISU: Training and Innovation in Reliable and Efficient Chip Design for Edge AI
+
+Similarity score of 0.815:
+        	1.CVDLINK: A federated paradigm of real-world data sources utilization for the empowerment of diagnosis, prognosis and risk assessment of cardiovascular conditions
+        	1.DataTools4Heart: A European Health Data Toolbox for Enhancing Cardiology Data Interoperability, Reusability and Privacy
+
+Similarity score of 0.814:
+        	1.MAGNIFY: Decoding the Mechanisms Underlying Metal-Organic Frameworks Self-Assembly
+        	1.STARLET: Atomistic Modeling of Advanced Porous Materials for Energy, Environment, and Biomedical Applications
+
+Similarity score of 0.813:
+        	1.SCION: Secured and Intelligent Massive Machine-to-Machine Communications for 6G
+        	1.CONFIDENTIAL6G: Confidential Computing and Privacy-preserving Technologies for 6G
+
+Similarity score of 0.813:
+        	1.SCION: Secured and Intelligent Massive Machine-to-Machine Communications for 6G
+        	1.6G-INTENSE: Intent-driven NaTive AI architecturE supporting Compute-Network abstraction and Sensing at the Deep Edge
+
+Similarity score of 0.813:
+        	1.DYNASTY: Dynamics-Aware Theory of Deep Learning
+        	1.A-B-C-Deep: Algorithmic Bias Control in Deep learning
+
+Similarity score of 0.811:
+        	1.ROBUST-6G: SmaRt, AutOmated, and ReliaBle SecUrity Service PlaTform for 6G
+        	1.6G-INTENSE: Intent-driven NaTive AI architecturE supporting Compute-Network abstraction and Sensing at the Deep Edge
+
+Similarity score of 0.808:
+        	1.SUNRISE-6G: SUstainable federatioN of Research Infrastructures for Scaling-up Experimentation in 6G
+        	1.ROBUST-6G: SmaRt, AutOmated, and ReliaBle SecUrity Service PlaTform for 6G
+
+Similarity score of 0.806:
+        	1.ONCOSCREEN: A European “shield” against colorectal cancer based on novel, more precise and affordable risk-based screening methods and viable policy pathways
+        	1.EndoTheranostics: Multi-sensor Eversion Robot  Towards Intelligent Endoscopic Diagnosis and Therapy
+
+Similarity score of 0.806:
+        	1.RoCCQeT: Real-World Commercial Coherent Quantum Annealing Technology
+        	1.KvasirAccelerator: The first utility-oriented, agnostic software platform for quantum-centric drug discovery
+
+Similarity score of 0.805:
+        	1.ONCOSCREEN: A European “shield” against colorectal cancer based on novel, more precise and affordable risk-based screening methods and viable policy pathways
+        	1.ONCODIR: ONCODIR – Evidence-based Participatory Decision Making for Cancer Prevention through implementation research
+
+Similarity score of 0.804:
+        	1.CONFIDENTIAL6G: Confidential Computing and Privacy-preserving Technologies for 6G
+        	1.PRIVATEER: Privacy-first Security Enablers for 6G Networks
+
+Similarity score of 0.804:
+        	1.AI4LIFE: Artificial Intelligence for Image Data Analysis in the Life Sciences
+        	1.GENERALIZATION: Modern Challenges in Learning Theory
+
+Similarity score of 0.803:
+        	1.PHASE IV AI: Privacy compliant health data as a service for AI development
+        	1.HarmonicAI: Human-guided collaborative multi-objective design of explainable, fair and privacy-preserving AI for digital health
+
+Similarity score of 0.802:
+        	1.HySTrAm: Hydrogen Storage and TRansport using Ammonia
+        	1.MOST-H2: Novel metal-organic framework adsorbents for efficient storage of hydrogen
+
+Similarity score of 0.799:
+        	1.Act.AI: Developing Bias Auditing and Mitigation Tools for Self-Assessment of AI Conformity with the EU AI Act through Statistical Matching
+        	1.MAMMOth: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+
+Similarity score of 0.798:
+        	1.ELEGANCE: Green SELf-Powered NEuromorphic Processing EnGines with Integrated VisuAl and FuNCtional SEnsing
+        	1.Resilient Trust: Resilient Trust- Trusted SMEs for Sustainable Growth of Europeans Economical Backbone to Strengthen the Digital Sovereignty
+
+Similarity score of 0.797:
+        	1.BIAS: Mitigating Diversity Biases of AI in the Labor Market
+        	1.MAMMOth: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+
+Similarity score of 0.797:
+        	1.MAGNIFY: Decoding the Mechanisms Underlying Metal-Organic Frameworks Self-Assembly
+        	1.SEQUOIA: Quantum Sensing with Metal-Organic Frameworks: DFT, Molecular Dynamics and Machine Learning Exploration
+
+Similarity score of 0.796:
+        	1.RoCCQeT: Real-World Commercial Coherent Quantum Annealing Technology
+        	1.qx: Automating quantum control with machine learning
+
+Similarity score of 0.796:
+        	1.FINE-TEA-SQUAD: FIrst NEar-TErm ApplicationS of QUAntum Devices
+        	1.QTEngine: Quantum Tensor Engine 
+
+Similarity score of 0.795:
+        	1.HeteroGenius4D: Heterogeneities-guided alloy design by and for 4D printing
+        	1.DurAMat: Sustainable production, processing and modelling of durable additive manufactured materials for enhanced performance and long-term service in complex environments.
+
+Similarity score of 0.794:
+        	1.OPTGEN: Optimizing for Generalization in Machine Learning
+        	1.CoDeFeL: Control for Deep and Federated Learning
+
+Similarity score of 0.793:
+        	1.FAITH: Fostering Artificial Intelligence Trust for Humans towards the optimization of trustworthiness through large-scale pilots in critical domains
+        	1.AEQUITAS: ASSESSMENT AND ENGINEERING OF EQUITABLE, UNBIASED, IMPARTIAL AND TRUSTWORTHY AI SYSTEMS
+
+Similarity score of 0.792:
+        	1.CONTROL-MYOPIA: Myopia control in the real world: treatments, target, timing, and terminus
+        	1.MyoTreat: Myopia - from genes and environment to cellular responses and treatment
+
+Similarity score of 0.792:
+        	1.RETIMAGER: REAL TIME MOLECULAR IMAGER WITH UNSURPASSED RESOLUTION
+        	1.Dual Tracer PET: Machine learning methods for the reconstruction of dual tracer PET images
+
+Similarity score of 0.791:
+        	1.EndoTheranostics: Multi-sensor Eversion Robot  Towards Intelligent Endoscopic Diagnosis and Therapy
+        	1.ONCODIR: ONCODIR – Evidence-based Participatory Decision Making for Cancer Prevention through implementation research
+
+Similarity score of 0.791:
+        	1.A-Laser: Pre-commercialization of new generation Atomic-layer-deposited Lasers for future green high-performance data centers
+        	1.ADOPTION: Advance co-packaged optics enabling high-efficiency cloud computing
+
+Similarity score of 0.790:
+        	1.COVER: COOPERATIVE AND INTELLIGENT UNMANNED AERIAL VEHICLES FOR EMERGENCY RESPONSE APPLICATIONS
+        	1.ACCELERATE: AdvanCing UAVs teChnology to EnabLE monitoRing for A susTainable environmEnt
+
+Similarity score of 0.789:
+        	1.AI-PROGNOSIS: Artificial intelligence-based Parkinson’s disease risk assessment and prognosis
+        	1.PARKSEQ: Single-cell sequencing analysis of striatal gene regulatory networks in Parkinson's disease
+
+Similarity score of 0.787:
+        	1.6G-BRICKS: 6G-BRICKS: Building Reusable testbed Infrastructures for validating Cloud-to-device breaKthrough technologieS
+        	1.ROBUST-6G: SmaRt, AutOmated, and ReliaBle SecUrity Service PlaTform for 6G
+
+Similarity score of 0.786:
+        	1.BAYES-RL: Deep Bayesian Reinforcement Learning -- Unifying Perception, Planning, and Control
+        	1.IntelliMan: AI-Powered Manipulation System for Advanced Robotic Service, Manufacturing and Prosthetics
+
+Similarity score of 0.786:
+        	1.TopoTapered: Auto-tuning, manipulation and braiding of topological quantum bits in tapered nanowire networks
+        	1.CatQubit: Building universal quantum computers with self-correcting cat-qubit technology
+
+Similarity score of 0.784:
+        	1.TopoTapered: Auto-tuning, manipulation and braiding of topological quantum bits in tapered nanowire networks
+        	1.qx: Automating quantum control with machine learning
+
+Similarity score of 0.784:
+        	1.MAMMOth: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+        	1.AI-OBSERVER: Enhancing Earth Observation capabilities of the Eratosthenes Centre of Excellence on Disaster Risk Reduction through Artificial Intelligence
+
+Similarity score of 0.783:
+        	1.SOUND.AI: Sorbonne University for a New Deal on Artificial Intelligence
+        	1.AI4EUROPE: AN AI ON-DEMAND PLATFORM TO SUPPORT RESEARCH EXCELLENCE IN EUROPE
+
+Similarity score of 0.781:
+        	1.MAMMOth: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+        	1.FUTURE: Fostering a common approach for the regulation of Artificial Intelligence in procedural criminal systems
+
+Similarity score of 0.780:
+        	1.2D PHrOSEN: 2D Material-based Non Volatile-PHotOnic Synapsis for ultra-low Energy Neural networks
+        	1.FERRIMEM: Ferrimagnet powered memristors for neuromorphic computing
+
+Similarity score of 0.777:
+        	1.TANGO: It takes two to tango: a synergistic approach to human-machine decision making
+        	1.MAMMOth: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+
+Similarity score of 0.777:
+        	1.FINE-TEA-SQUAD: FIrst NEar-TErm ApplicationS of QUAntum Devices
+        	1.RoCCQeT: Real-World Commercial Coherent Quantum Annealing Technology
+
+Similarity score of 0.777:
+        	1.CoreSense: CoreSense: A Hybrid Cognitive Architecture for Deep Understanding
+        	1.PRIMI: Performance in Robots Interaction via Mental Imagery
+
+Similarity score of 0.777:
+        	1.EdgeAI-Trust: Decentralized Edge Intelligence: Advancing Trust, Safety, and Sustainability in Europe
+        	1.EdgeAI: Edge AI Technologies for Optimised Performance Embedded Processing
+
+Similarity score of 0.776:
+        	1.EMMY: Evolutionary Mechanisms in the Milky waY: the Gaia Data Release 3 revolution
+        	1.MWGaiaDN: MWGaiaDN: Revealing the Milky Way with Gaia
+
+Similarity score of 0.776:
+        	1.SMART: Synchronised neuro-Memristive Architecture for Reinforced learning Technology
+        	1.NEUROPULS: NEUROmorphic energy-efficient secure accelerators based on Phase change materials aUgmented siLicon photonicS
+
+Similarity score of 0.776:
+        	1.RobustNanoNet: Understanding and Engineering Resistive Switching towards Robust Neuromorphic Systems
+        	1.MottSwitch: Highly Energy-Efficient Resistive Switching in Defect- and Strain- Engineered Mott Insulators for Neuromorphic Computing Applications
+
+Similarity score of 0.776:
+        	1.FastML: FastML: Efficient and Cost-Effective Distributed Machine Learning
+        	1.SPARSE-ML: Cascade Processes for Sparse Machine Learning
+
+Similarity score of 0.774:
+        	1.PROFTH: PROstate Focal THerapy
+        	1.PROMOTE: PRostate cancer OMics Oriented inTErvention
+
+Similarity score of 0.772:
+        	1.FERRIMEM: Ferrimagnet powered memristors for neuromorphic computing
+        	1.spiNets: Functionalised dense spintronics oscillator networks for neuromorphic computing
+
+Similarity score of 0.772:
+        	1.INTERACT: Intuitive interaction for robots among humans
+        	1.PRIMI: Performance in Robots Interaction via Mental Imagery
+
+Similarity score of 0.771:
+        	1.DYNASTY: Dynamics-Aware Theory of Deep Learning
+        	1.BiTFormer: Biologically Plausible Transformers - Integrating Top-Down and Bottom-Up Signals in the Primary Vision System for Computationally Efficient Deep Learning
+
+Similarity score of 0.771:
+        	1.INTERACT: Intuitive interaction for robots among humans
+        	1.SSDM: Deployable Decision-Making: Embracing Semantics for Robotic Safety in Everyday Scenarios
+
+Similarity score of 0.771:
+        	1.Resilient Trust: Resilient Trust- Trusted SMEs for Sustainable Growth of Europeans Economical Backbone to Strengthen the Digital Sovereignty
+        	1.REMARKABLE: Rural Environmental Monitoring via ultra wide-ARea networKs And distriButed federated Learning
+
+Similarity score of 0.771:
+        	1.BICEPS: Beyond neuroInflammation: new Concepts to Elucidate the immune system’s vital role in Parkinson’s disease
+        	1.PARKSEQ: Single-cell sequencing analysis of striatal gene regulatory networks in Parkinson's disease
+
+Similarity score of 0.770:
+        	1.TargetMI: A Multi-Omics Approach for Novel Drug Targets, Biomarkers and Risk Algorithms for Myocardial Infarction
+        	1.ORACLE: Optimize risk prediction after myocardial infarction through artificial intelligence and multidimensional evaluation
+
+Similarity score of 0.770:
+        	1.QTEngine: Quantum Tensor Engine 
+        	1.CatQubit: Building universal quantum computers with self-correcting cat-qubit technology
+
+Similarity score of 0.769:
+        	1.DIVERSE: Heterogeneous integration of imprecise memory devices to enable learning from a very small volume of noisy data
+        	1.HYBRAIN: Hybrid electronic-photonic architectures for brain-inspired computing
+
+Similarity score of 0.768:
+        	1.SUNRISE-6G: SUstainable federatioN of Research Infrastructures for Scaling-up Experimentation in 6G
+        	1.CONFIDENTIAL6G: Confidential Computing and Privacy-preserving Technologies for 6G
+
+Similarity score of 0.768:
+        	1.TIRAMISU: Training and Innovation in Reliable and Efficient Chip Design for Edge AI
+        	1.EdgeAI: Edge AI Technologies for Optimised Performance Embedded Processing
+
+Similarity score of 0.768:
+        	1.TRANSIONICS: Solid-State Ionics Synaptic Transistors for Neuromorphic Computing
+        	1.2D PHrOSEN: 2D Material-based Non Volatile-PHotOnic Synapsis for ultra-low Energy Neural networks
+
+Similarity score of 0.767:
+        	1.ELEGANCE: Green SELf-Powered NEuromorphic Processing EnGines with Integrated VisuAl and FuNCtional SEnsing
+        	1.EPEAS: Leading the way to energy autonomous edge computing
+
+Similarity score of 0.767:
+        	1.FastML: FastML: Efficient and Cost-Effective Distributed Machine Learning
+        	1.VeriDeL: Verifiably Safe and Correct Deep Neural Networks
+
+Similarity score of 0.767:
+        	1.QTEngine: Quantum Tensor Engine 
+        	1.RoCCQeT: Real-World Commercial Coherent Quantum Annealing Technology
+
+Similarity score of 0.767:
+        	1.6G-XCEL: 6G Trans-Continental Edge Learning
+        	1.MAMMOth: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+
+Similarity score of 0.766:
+        	1.SUNRISE-6G: SUstainable federatioN of Research Infrastructures for Scaling-up Experimentation in 6G
+        	1.6G-ISLAC: Integrated Sensing, Localization, and Communications in 6G THz Systems
+
+Similarity score of 0.765:
+        	1.HarmonicAI: Human-guided collaborative multi-objective design of explainable, fair and privacy-preserving AI for digital health
+        	1.AEQUITAS: ASSESSMENT AND ENGINEERING OF EQUITABLE, UNBIASED, IMPARTIAL AND TRUSTWORTHY AI SYSTEMS
+
+Similarity score of 0.765:
+        	1.DOLORES: Digital optical computing platform for neural networks
+        	1.SPIKEPro: SPIKING PHOTONIC-ELECTRONIC IC FOR QUICK AND EFFICIENT PROCESSING
+
+Similarity score of 0.763:
+        	1.MOST-H2: Novel metal-organic framework adsorbents for efficient storage of hydrogen
+        	1.HydroMOF: Hydrogen Storage in Electric Field Responsive Metal Organic Frameworks Studied by Machine Learning Potentials
+
+Similarity score of 0.763:
+        	1.EEHIMIC: Energy-efficient hardware implementation of memristor-based in-memory computing
+        	1.2D PHrOSEN: 2D Material-based Non Volatile-PHotOnic Synapsis for ultra-low Energy Neural networks
+
+Similarity score of 0.763:
+        	1.ACHILLEUS: Next-Generation Drug Discovery Platform for Targeting Cancer Stem Cell Pathways
+        	1.EndoTheranostics: Multi-sensor Eversion Robot  Towards Intelligent Endoscopic Diagnosis and Therapy
+
+Similarity score of 0.763:
+        	1.2D PHrOSEN: 2D Material-based Non Volatile-PHotOnic Synapsis for ultra-low Energy Neural networks
+        	1.spiNets: Functionalised dense spintronics oscillator networks for neuromorphic computing
+
+Similarity score of 0.763:
+        	1.Act.AI: Developing Bias Auditing and Mitigation Tools for Self-Assessment of AI Conformity with the EU AI Act through Statistical Matching
+        	1.HarmonicAI: Human-guided collaborative multi-objective design of explainable, fair and privacy-preserving AI for digital health
+
+Similarity score of 0.763:
+        	1.SingleTree: Optimizing multifunctional forest-based value chains with single tree information and application of digital technologies
+        	1.OptiForValue: Optimising forest operations for sustainable forest management and high-value applications
+
+Similarity score of 0.762:
+        	1.ULTIMATE: mUlti-Level Trustworthiness to IMprove the Adoption of hybrid arTificial intelligencE
+        	1.TANGO: It takes two to tango: a synergistic approach to human-machine decision making
+
+Similarity score of 0.762:
+        	1.DeMythif.AI: PhD excellence program in Paris-Saclay to unravel AI uncertainty
+        	1.MAMMOth: Multi-Attribute, Multimodal Bias Mitigation in AI Systems
+
+Similarity score of 0.762:
+        	1.AI4LIFE: Artificial Intelligence for Image Data Analysis in the Life Sciences
+        	1.OPTGEN: Optimizing for Generalization in Machine Learning
+
+Similarity score of 0.762:
+        	1.ULTIMATE: mUlti-Level Trustworthiness to IMprove the Adoption of hybrid arTificial intelligencE
+        	1.HarmonicAI: Human-guided collaborative multi-objective design of explainable, fair and privacy-preserving AI for digital health
+
+Similarity score of 0.762:
+        	1.SOPRANO: Socially-Acceptable and Trustworthy Human-Robot Teaming for Agile Industries
+        	1.JARVIS: Intersubjective AI-driven multimodal interaction for advanced user-centric human robot collaborative applications
+
+Similarity score of 0.762:
+        	1.Act.AI: Developing Bias Auditing and Mitigation Tools for Self-Assessment of AI Conformity with the EU AI Act through Statistical Matching
+        	1.FUTURE: Fostering a common approach for the regulation of Artificial Intelligence in procedural criminal systems
+
+Similarity score of 0.762:
+        	1.SYMBA: Securing local supplY chains via the development of new Methods to assess the circularity and symbiosis of the Bio-bAsed industrial ecosystem enhancing the EU competitiveness and resource independence
+        	1.SYMBIO: Shaping symbiosis in bio-based industrial ecosystems based on circular by-design supply chains
+
+Similarity score of 0.761:
+        	1.AI CUrES: AI to predict Cancer metastasis using Ultra-Echo-Sono imaging
+        	1.3DSecret: 3D spheroids derived from single cells for discovering stochastic patterns behind metastasis
+
+Similarity score of 0.761:
+        	1.GENERALIZATION: Modern Challenges in Learning Theory
+        	1.TUCLA: Theoretical Understanding of Classic Learning Algorithms
+
+Similarity score of 0.760:
+        	1.FAITH: Fostering Artificial Intelligence Trust for Humans towards the optimization of trustworthiness through large-scale pilots in critical domains
+        	1.ULTIMATE: mUlti-Level Trustworthiness to IMprove the Adoption of hybrid arTificial intelligencE
+
+Similarity score of 0.760:
+        	1.ExploreFNP: Exploring the Molecular Properties of Atmospheric Freshly Nucleated Particles
+        	1.CERTAINTY: Cloud-aERosol inTeractions & their impActs IN The earth sYstem
+
+Similarity score of 0.760:
+        	1.DRAIGON: Diagnosing Infections with Multi-Drug Resistant Microorganisms using AI-powered Genomic Antibiotic Susceptibility Prediction from Long-Read Sequencing Data
+        	1.PepMach: Machine learning the microbiome for identification of novel antimicrobial peptides
+
+Similarity score of 0.759:
+        	1.FAITH: Fostering Artificial Intelligence Trust for Humans towards the optimization of trustworthiness through large-scale pilots in critical domains
+        	1.HarmonicAI: Human-guided collaborative multi-objective design of explainable, fair and privacy-preserving AI for digital health
+
+Similarity score of 0.759:
+        	1.EO4EU: AI-augmented ecosystem for Earth Observation data accessibility with Extended reality User Interfaces for Service and data exploitation.
+        	1.S34I: SECURE AND SUSTAINABLE SUPPLY OF RAW MATERIALS FOR EU INDUSTRY
+
+Similarity score of 0.759:
+        	1.NextGen: NEXT GENERATION TOOLS FOR GENOME-CENTRIC MULTIMODAL DATA INTEGRATION IN PERSONALISED CARDIOVASCULAR MEDICINE
+        	1.BETTER: Better rEal-world healTh-daTa distributEd analytics Research platform
+
+Similarity score of 0.758:
+        	1.TIRAMISU: Training and Innovation in Reliable and Efficient Chip Design for Edge AI
+        	1.VERGE: AI-powered eVolution towards opEn and secuRe edGe architEctures
+
+Similarity score of 0.758:
+        	1.INVERSE: INteractive robots that intuitiVely lEarn to inVErt tasks by ReaSoning about their Execution
+        	1.PRIMI: Performance in Robots Interaction via Mental Imagery
+
+Similarity score of 0.758:
+        	1.AHM: Acorai Heart Monitor - Non-invasive multi-sensor device for heart failure monitoring
+        	1.STRATIFYHF: Artificial intelligence-based decision support system for risk stratification and early detection of heart failure in primary and secondary care
+
+Similarity score of 0.758:
+        	1.A-B-C-Deep: Algorithmic Bias Control in Deep learning
+        	1.BiTFormer: Biologically Plausible Transformers - Integrating Top-Down and Bottom-Up Signals in the Primary Vision System for Computationally Efficient Deep Learning
+
+Similarity score of 0.758:
+        	1.PRIMI: Performance in Robots Interaction via Mental Imagery
+        	1.IntelliMan: AI-Powered Manipulation System for Advanced Robotic Service, Manufacturing and Prosthetics
+
+Similarity score of 0.757:
+        	1.FutureData4EU: Training Future Big Data Experts for Europe
+        	1.CyclOps: Automated end-to-end data life cycle management for FAIR data integration, processing and re-use
+
+Similarity score of 0.757:
+        	1.COMFORT: COMputational Models FOR patienT stratification in urologic cancers – Creating robust and trustworthy multimodal AI for health care
+        	1.PROMOTE: PRostate cancer OMics Oriented inTErvention
+
+Similarity score of 0.756:
+        	1.ONCOSCREEN: A European “shield” against colorectal cancer based on novel, more precise and affordable risk-based screening methods and viable policy pathways
+        	1.ACHILLEUS: Next-Generation Drug Discovery Platform for Targeting Cancer Stem Cell Pathways
+
+Similarity score of 0.756:
+        	1.GENERALIZATION: Modern Challenges in Learning Theory
+        	1.APHELEIA: Reconciling Classical and Modern (Deep) Machine Learning for Real-World Applications
+
+Similarity score of 0.756:
+        	1.alignAI: value-ALIGNed socio-technical systems using large-language models (LLMs)
+        	1.condenSE: Sustainable Training of Code Language Models through Data Refinement
+
+Similarity score of 0.756:
+        	1.HarmonicAI: Human-guided collaborative multi-objective design of explainable, fair and privacy-preserving AI for digital health
+        	1.TANGO: It takes two to tango: a synergistic approach to human-machine decision making
+
+Similarity score of 0.756:
+        	1.6G-ISLAC: Integrated Sensing, Localization, and Communications in 6G THz Systems
+        	1.NEAT-6G: Near-field Enhanced Accuracy Tracking for 6G Networks
+
+Similarity score of 0.755:
+        	1.qx: Automating quantum control with machine learning
+        	1.KvasirAccelerator: The first utility-oriented, agnostic software platform for quantum-centric drug discovery
+
+Similarity score of 0.755:
+        	1.E-CONTRAIL: Artificial Neural Networks for the Prediction of Contrails and Aviation Induced Cloudiness
+        	1.BeCoM: Better Contrails Mitigation
+
+Similarity score of 0.755:
+        	1.AI4LIFE: Artificial Intelligence for Image Data Analysis in the Life Sciences
+        	1.ALEPH: Autonomous learning agents in Physics
+
+Similarity score of 0.755:
+        	1.DIVERSE: Heterogeneous integration of imprecise memory devices to enable learning from a very small volume of noisy data
+        	1.SPIKEPro: SPIKING PHOTONIC-ELECTRONIC IC FOR QUICK AND EFFICIENT PROCESSING
+
+Similarity score of 0.755:
+        	1.CONVOLVE: Seamless design of smart edge processors
+        	1.EdgeAI: Edge AI Technologies for Optimised Performance Embedded Processing
+
+Similarity score of 0.754:
+        	1.TopoTapered: Auto-tuning, manipulation and braiding of topological quantum bits in tapered nanowire networks
+        	1.KvasirAccelerator: The first utility-oriented, agnostic software platform for quantum-centric drug discovery
+
+Similarity score of 0.754:
+        	1.NEUROPULS: NEUROmorphic energy-efficient secure accelerators based on Phase change materials aUgmented siLicon photonicS
+        	1.2D PHrOSEN: 2D Material-based Non Volatile-PHotOnic Synapsis for ultra-low Energy Neural networks
+
+Similarity score of 0.754:
+        	1.GENERALIZATION: Modern Challenges in Learning Theory
+        	1.CINEMA: Chemistry informed machine learning in emulsion polymerization processes and products
+
+Similarity score of 0.754:
+        	1.SCION: Secured and Intelligent Massive Machine-to-Machine Communications for 6G
+        	1.6G-GOALS: 6G Goal-Oriented AI-enabled Learning and Semantic Communication Networks
+
+Similarity score of 0.753:
+        	1.FAITH: Fostering Artificial Intelligence Trust for Humans towards the optimization of trustworthiness through large-scale pilots in critical domains
+        	1.THEMIS 5.0: Human-centered Trustworthiness Optimisation in Hybrid Decision Support
+
+Similarity score of 0.753:
+        	1.SCION: Secured and Intelligent Massive Machine-to-Machine Communications for 6G
+        	1.6G-ISLAC: Integrated Sensing, Localization, and Communications in 6G THz Systems
+
+Similarity score of 0.753:
+        	1.Nekoka: Realizing the Promise of Higher-Order SMT and Superposition for Interactive Verification
+        	1.DeepIsaHOL: Reinforcement learning to improve proof-automation in theorem proving
+
+Similarity score of 0.753:
+        	1.FIDAL: Field Trials beyond 5G
+        	1.6G-INTENSE: Intent-driven NaTive AI architecturE supporting Compute-Network abstraction and Sensing at the Deep Edge
+
+Similarity score of 0.752:
+        	1.SUNRISE-6G: SUstainable federatioN of Research Infrastructures for Scaling-up Experimentation in 6G
+        	1.6G-ICARUS: 6G Intelligent Connectivity And inteRaction for Users and infraStructures
+
+Similarity score of 0.752:
+        	1.APHELEIA: Reconciling Classical and Modern (Deep) Machine Learning for Real-World Applications
+        	1.NoKnow: Not Knowing in Deep Representation Learning
+
+Similarity score of 0.752:
+        	1.6Green: Green Technologies for 5/6G Service-Based Architectures
+        	1.6G-CLOUD: Service-oriented 6G network architecture for distributed, intelligent, and sustainable cloud-native communication systems
+
+Similarity score of 0.751:
+        	1.TANGO: It takes two to tango: a synergistic approach to human-machine decision making
+        	1.AEQUITAS: ASSESSMENT AND ENGINEERING OF EQUITABLE, UNBIASED, IMPARTIAL AND TRUSTWORTHY AI SYSTEMS
+
+Similarity score of 0.751:
+        	1.FINE-TEA-SQUAD: FIrst NEar-TErm ApplicationS of QUAntum Devices
+        	1.CatQubit: Building universal quantum computers with self-correcting cat-qubit technology
+
+Similarity score of 0.751:
+        	1.OPTGEN: Optimizing for Generalization in Machine Learning
+        	1.ALEPH: Autonomous learning agents in Physics
+
+Similarity score of 0.751:
+        	1.ROBUST-6G: SmaRt, AutOmated, and ReliaBle SecUrity Service PlaTform for 6G
+        	1.6G-ISLAC: Integrated Sensing, Localization, and Communications in 6G THz Systems
+
+Similarity score of 0.750:
+        	1.GLIOMATCH: The malignant Glioma immuno-oncology matchmaker: towards data-driven precision medicine using spatially resolved radio-multiomics
+        	1.nPL4GBM: Clinical validation of NANO-PL: a hydrogel-based formulation of a small molecule for a highly targeted therapy against Glioblastoma Multiforme (GBM)
+

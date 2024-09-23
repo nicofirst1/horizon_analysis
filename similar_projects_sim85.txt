@@ -1,0 +1,37 @@
+The projects with similarity above 0.9 but not identical are:
+Similarity score of 1.000:
+        	1.MESTUM: Machine learning-based prediction and evaluation of supercapacitor performance of transition metal carbide developed by using waste surgical masks during COVID-19
+        	1.MESTUM: Machine learning-based prediction and evaluation of supercapacitor performance of transition metal carbide developed by using waste surgical masks during COVID-19
+
+Similarity score of 1.000:
+        	1.YAHYA-6G: dYnAmic resource scHeduling in Massive MIMO based NOMA with RF imperfections and EnergY hArvesting for 6G networks
+        	1.YAHYA-6G: Dynamic resource Scheduling in Massive MIMO based NOMA with RF imperfections and Energy Harvesting for 6G networks
+
+Similarity score of 0.889:
+        	1.DataBri-X: Data Process & Technological Bricks for expanding digital value creation in European Data Spaces
+        	1.CyclOps: Automated end-to-end data life cycle management for FAIR data integration, processing and re-use
+
+Similarity score of 0.884:
+        	1.ENLIGHTEN-ED: European iNitiative for Low cost, Innovative and Green High Thrust ENgine - Engine Demonstration
+        	1.ENLIGHTEN: European iNitiative for Low cost, Innovative & Green High Thrust ENgine
+
+Similarity score of 0.867:
+        	1.INFER: In-operando growth of organic mixed ionic-electronic conductors for brain-inspired electronics
+        	1.PSOECNs: Photo-patternable electrolytes for solid-state organic electrochemical neurons
+
+Similarity score of 0.862:
+        	1.OPTGEN: Optimizing for Generalization in Machine Learning
+        	1.GENERALIZATION: Modern Challenges in Learning Theory
+
+Similarity score of 0.859:
+        	1.DECODE: Desynchronizing weak cortical fields during deep brain stimulation
+        	1.DBSBOT: Deep brain stimulation based on the wireless magnetically localised and ultrasonically actuated micro-robot
+
+Similarity score of 0.856:
+        	1.SUNRISE-6G: SUstainable federatioN of Research Infrastructures for Scaling-up Experimentation in 6G
+        	1.SCION: Secured and Intelligent Massive Machine-to-Machine Communications for 6G
+
+Similarity score of 0.853:
+        	1.CatQubit: Building universal quantum computers with self-correcting cat-qubit technology
+        	1.RoCCQeT: Real-World Commercial Coherent Quantum Annealing Technology
+

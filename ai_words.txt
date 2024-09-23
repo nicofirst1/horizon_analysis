@@ -1,0 +1,42 @@
+Machine learning
+Artificial intelligence 
+Neural network
+Deep learning
+Natural language processing
+Robotics
+Reinforcement learning
+Supervised learning
+Machine perception
+Speech recognition
+neural network
+Computer vision
+Robot
+Autonomous car
+Supercomputer
+Robotics
+Evolutionary algorithms
+Genetic algorithms
+Swarm intelligence
+Decision theory
+Intelligent agent
+Computational linguistics
+Probabilistic reasoning
+Pattern recognition
+Deep learning
+Bayesian network
+Markov decision process
+Hidden Markov model
+Intelligent control
+Emotion recognition
+Object recognition
+Image recognition
+Predictive modeling
+Data analysis
+Automated reasoning
+Autonomous robots
+Data governance
+Big data
+Expert system
+AI
+NLP
+llms
